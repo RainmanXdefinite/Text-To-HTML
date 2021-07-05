@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Debug\tthtml.exe.config
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Debug\tthtml.exe
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Debug\tthtml.pdb
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.Form1.resources
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.Properties.Resources.resources
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.exe
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Debug\tthtml.pdb

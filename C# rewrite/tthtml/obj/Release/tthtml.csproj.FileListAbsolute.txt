@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Release\tthtml.exe.config
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Release\tthtml.exe
+C:\Users\dell\source\repos\tthtml\tthtml\bin\Release\tthtml.pdb
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.Form1.resources
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.Properties.Resources.resources
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.exe
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.pdb
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\tthtml\tthtml\obj\Release\tthtml.AboutBox1.resources
